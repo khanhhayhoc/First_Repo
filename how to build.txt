@@ -1,0 +1,10 @@
+vao cmd : 
+chuyen doi thu muc co chua file build
+cd /d "D:\Khai bao gio cong"
+
+chay lenh build : 
+py -m PyInstaller --onefile --windowed main.py
+
+
+
+ 
