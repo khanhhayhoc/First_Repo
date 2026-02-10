@@ -1,12 +1,13 @@
 # first_repo
 
 ## Giới thiệu
-Đây là repository đầu tiên của mình trên GitHub.
+Viết code để tạo phần mềm worktime trong vscode bằng python   
 
 ## Mục đích
-- Học GitHub
-- Làm quen với Markdown
-- Chuẩn bị cho các dự án sau (QR, web…)
+- Lấy file giờ công excel 
+- đọc file 
+- chuyển đổi dữ liệu thành các dashboard tương ứng
+- phù hợp báo cáo tuần và tháng 
 ## Code python
 worktime_view.py (Giao diện app worktime )
   - tiếp nhận file
@@ -20,4 +21,4 @@ worktime_controller.py
 main.py
   - tổng hợp tất cả và run app 
 ## Trạng thái
-Đang học / Đang phát triển
+Đã hoàn thành 
