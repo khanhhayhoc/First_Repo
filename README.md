@@ -15,6 +15,9 @@ worktime_view.py (Giao diện app worktime )
 worktime_model.py 
   - Hàm số
   - Xử lý các tham số trước khi thực hiện các thao tác trên view
-
+worktime_controller.py
+  - hàm kết nối worktime_model và worktime_view để thực hiện mục đích chương trình
+main.py
+  - tổng hợp tất cả và run app 
 ## Trạng thái
 Đang học / Đang phát triển
